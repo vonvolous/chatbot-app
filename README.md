@@ -1,7 +1,8 @@
 # chatbot-app
 ----------------------------------------
 ## 🌟 react+node 사용해 챗봇 어플리케이션 만들기
-### 1. Dialogflow API 설정
+### 1. Dialogflow API 설정 
+>https://dialogflow.cloud.google.com/cx/projects
 ### 2. textQuery Route 만들기
 ### 3. Event Route 만들기
 
